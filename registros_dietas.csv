@@ -1,0 +1,101 @@
+Nombre,Edad,Genero,PesoInicial,Altura,IMC,Objetivo,Nombre del Regimen,CostoRegimen,RangoCosto,FechaInicio,FechaFinRegimen
+Ana Ruiz Martin,29,F,94,1.76,30.35,Perdida de peso,Dieta Mediterranea,350,Economico,27/10/2023,24/05/2024
+Juan Sanchez Diaz,41,M,65,1.67,23.31,Mantenimiento,Dieta DASH,650,Alto,03/04/2023,29/11/2023
+Jose Munoz Martinez,34,F,102,1.77,32.56,Perdida de peso,Dieta Cetogenica,300,Economico,17/06/2023,13/01/2024
+Ana Diaz Fernandez,27,F,79,1.65,29.02,Perdida de peso,Dieta Baja en Grasas,700,Alto,08/03/2023,03/11/2023
+Alberto Alonso Castro,44,F,101,1.74,33.36,Perdida de peso,Dieta DASH,300,Economico,09/04/2024,06/10/2024
+Javier Dominguez Gonzalez,37,F,64,1.62,24.39,Mantenimiento,Dieta Baja en Grasas,350,Economico,25/08/2023,24/10/2023
+Claudia Castro Flores,38,M,104,1.73,34.75,Perdida de peso,Dieta Baja en Grasas,800,Alto,01/07/2023,30/08/2023
+Lucia Sanchez Ruiz,19,F,63,1.63,23.71,Mantenimiento,Dieta DASH,550,Medio,22/02/2024,22/05/2024
+Manuel Vargas Alonso,28,M,69,1.67,24.74,Mantenimiento,Dieta DASH,700,Alto,25/01/2024,22/08/2024
+Jorge Rodriguez Martin,39,M,89,1.64,33.09,Perdida de peso,Dieta DASH,550,Medio,27/01/2023,28/03/2023
+Alberto Moreno Dominguez,43,M,82,1.64,30.49,Perdida de peso,Dieta Cetogenica,300,Economico,29/10/2023,28/11/2023
+Jorge Ruiz Sanchez,27,F,75,1.64,27.89,Perdida de peso,Dieta Mediterranea,700,Alto,07/05/2023,05/08/2023
+Miguel Alvarez Sanchez,34,F,73,1.7,25.26,Perdida de peso,Dieta Baja en Grasas,250,Economico,23/12/2023,20/07/2024
+Ana Rodriguez Lopez,55,M,76,1.65,27.92,Perdida de peso,Dieta DASH,350,Economico,11/10/2023,08/04/2024
+Lucia Navarro Sanchez,44,F,60,1.8,18.52,Mantenimiento,Dieta Mediterranea,450,Medio,31/03/2024,29/07/2024
+Carlos Garcia Flores,24,F,70,1.79,21.85,Mantenimiento,Dieta Mediterranea,750,Alto,26/02/2024,26/04/2024
+Antonio Romero Alonso,20,F,61,1.77,19.47,Mantenimiento,Dieta Baja en Grasas,400,Economico,25/06/2023,21/01/2024
+Ana Diaz Gutierrez,50,M,69,1.67,24.74,Mantenimiento,Dieta Mediterranea,400,Economico,16/02/2024,15/07/2024
+Irene Garcia Torres,21,M,99,1.7,34.26,Perdida de peso,Dieta Mediterranea,300,Economico,14/08/2023,13/10/2023
+Lucia Moreno Sanchez,24,F,72,1.78,22.72,Mantenimiento,Dieta Baja en Grasas,250,Economico,16/11/2023,16/12/2023
+David Lopez Alvarez,29,M,88,1.77,28.09,Perdida de peso,Dieta DASH,750,Alto,11/01/2023,12/03/2023
+Paula Romero Rodriguez,18,M,91,1.76,29.38,Perdida de peso,Dieta Mediterranea,600,Alto,15/09/2023,13/03/2024
+Jose Castro Rodriguez,23,F,95,1.79,29.65,Perdida de peso,Dieta DASH,800,Alto,15/03/2024,13/07/2024
+Carlos Martin Sanchez,30,F,66,1.74,21.8,Mantenimiento,Dieta DASH,600,Alto,21/12/2023,19/02/2024
+Irene Martinez Lopez,28,M,104,1.61,40.12,Perdida de peso,Dieta DASH,250,Economico,18/02/2023,16/10/2023
+Javier Navarro Sanchez,22,M,96,1.69,33.61,Perdida de peso,Dieta Cetogenica,500,Medio,28/06/2023,28/07/2023
+Alberto Lopez Torres,31,F,68,1.62,25.91,Perdida de peso,Dieta Cetogenica,600,Alto,07/05/2023,04/10/2023
+Sergio Gutierrez Castro,55,M,69,1.62,26.29,Perdida de peso,Dieta Baja en Grasas,400,Economico,20/04/2023,18/08/2023
+David Rodriguez Martin,25,F,65,1.63,24.46,Mantenimiento,Dieta Mediterranea,400,Economico,10/11/2023,10/12/2023
+Cristina Gutierrez Perez,29,M,67,1.7,23.18,Mantenimiento,Dieta DASH,350,Economico,26/09/2023,23/05/2024
+Manuel Gonzalez Gutierrez,22,F,78,1.63,29.36,Perdida de peso,Dieta Mediterranea,800,Alto,02/05/2023,30/08/2023
+Javier Munoz Moreno,45,F,103,1.77,32.88,Perdida de peso,Dieta Mediterranea,800,Alto,11/01/2023,09/08/2023
+Marta Torres Perez,53,M,92,1.81,28.08,Perdida de peso,Dieta Cetogenica,700,Alto,31/12/2023,28/07/2024
+Antonio Dominguez Garcia,20,F,79,1.67,28.33,Perdida de peso,Dieta Baja en Grasas,500,Medio,04/01/2023,02/08/2023
+Sara Castro Castro,22,M,90,1.75,29.39,Perdida de peso,Dieta Baja en Grasas,800,Alto,26/09/2023,25/12/2023
+Irene Moreno Hernandez,38,F,96,1.75,31.35,Perdida de peso,Dieta DASH,700,Alto,16/04/2023,12/12/2023
+Lucia Fernandez Dominguez,46,M,69,1.7,23.88,Mantenimiento,Dieta DASH,350,Economico,24/03/2024,20/10/2024
+David Navarro Torres,24,M,104,1.65,38.2,Perdida de peso,Dieta Cetogenica,400,Economico,18/04/2023,14/11/2023
+Claudia Ramirez Hernandez,31,M,81,1.63,30.49,Perdida de peso,Dieta DASH,650,Alto,19/05/2023,18/07/2023
+Jose Gonzalez Garcia,30,F,108,1.76,34.87,Perdida de peso,Dieta Cetogenica,600,Alto,24/06/2023,22/09/2023
+Juan Castro Gutierrez,34,M,87,1.77,27.77,Perdida de peso,Dieta Cetogenica,300,Economico,18/11/2023,16/04/2024
+Alejandro Sanchez Lopez,52,F,84,1.72,28.39,Perdida de peso,Dieta Mediterranea,550,Medio,25/11/2023,22/07/2024
+Sergio Alvarez Garcia,24,F,96,1.81,29.3,Perdida de peso,Dieta Cetogenica,850,Alto,08/08/2023,05/01/2024
+Francisco Romero Navarro,20,M,104,1.71,35.57,Perdida de peso,Dieta DASH,450,Medio,28/04/2024,27/06/2024
+Antonio Flores Castro,49,M,105,1.79,32.77,Perdida de peso,Dieta Baja en Grasas,350,Economico,25/08/2023,24/09/2023
+Juan Gonzalez Rodriguez,54,M,72,1.78,22.72,Mantenimiento,Dieta Baja en Grasas,400,Economico,14/12/2023,12/05/2024
+Sara Perez Navarro,30,M,105,1.74,34.68,Perdida de peso,Dieta Cetogenica,750,Alto,01/05/2023,29/08/2023
+Manuel Alvarez Gutierrez,43,F,91,1.68,32.24,Perdida de peso,Dieta Mediterranea,700,Alto,27/05/2023,26/07/2023
+Sofia Garcia Gonzalez,51,F,98,1.7,33.91,Perdida de peso,Dieta Cetogenica,800,Alto,16/01/2024,13/08/2024
+Marta Gutierrez Diaz,24,M,76,1.67,27.25,Perdida de peso,Dieta Mediterranea,450,Medio,25/11/2023,24/03/2024
+Cristina Garcia Vargas,26,M,80,1.66,29.03,Perdida de peso,Dieta Mediterranea,250,Economico,22/07/2023,20/10/2023
+Elena Vargas Romero,25,F,98,1.62,37.34,Perdida de peso,Dieta DASH,300,Economico,29/01/2024,29/03/2024
+Juan Gutierrez Garcia,31,M,80,1.65,29.38,Perdida de peso,Dieta Cetogenica,350,Economico,06/01/2024,06/03/2024
+Miguel Jimenez Garcia,27,F,60,1.7,20.76,Mantenimiento,Dieta Mediterranea,450,Medio,22/01/2024,19/08/2024
+Maria Jimenez Gonzalez,26,M,70,1.81,21.37,Mantenimiento,Dieta Mediterranea,300,Economico,02/03/2023,29/08/2023
+Isabel Romero Sanchez,23,M,91,1.65,33.43,Perdida de peso,Dieta Mediterranea,550,Medio,12/07/2023,10/09/2023
+Maria Hernandez Hernandez,26,M,96,1.76,30.99,Perdida de peso,Dieta Mediterranea,300,Economico,02/01/2023,01/06/2023
+Paula Garcia Garcia,46,M,79,1.66,28.67,Perdida de peso,Dieta Cetogenica,550,Medio,26/04/2023,22/11/2023
+Paula Alonso Lopez,22,F,82,1.68,29.05,Perdida de peso,Dieta DASH,500,Medio,03/11/2023,30/06/2024
+Daniel Navarro Martinez,28,M,95,1.68,33.66,Perdida de peso,Dieta Baja en Grasas,400,Economico,17/02/2023,17/06/2023
+Marta Diaz Alvarez,29,F,110,1.7,38.06,Perdida de peso,Dieta Mediterranea,700,Alto,07/11/2023,05/02/2024
+Javier Gonzalez Gonzalez,45,M,97,1.73,32.41,Perdida de peso,Dieta DASH,700,Alto,28/05/2023,23/01/2024
+Juan Lopez Lopez,44,F,74,1.74,24.44,Mantenimiento,Dieta DASH,250,Economico,20/02/2023,21/04/2023
+Alberto Lopez Flores,20,F,94,1.68,33.3,Perdida de peso,Dieta Baja en Grasas,300,Economico,29/03/2024,27/06/2024
+Lucia Martin Martin,34,F,83,1.68,29.41,Perdida de peso,Dieta DASH,300,Economico,18/02/2023,19/05/2023
+David Ramirez Gutierrez,28,M,63,1.71,21.55,Mantenimiento,Dieta Baja en Grasas,400,Economico,04/03/2023,02/06/2023
+Laura Lopez Ramirez,37,M,74,1.73,24.73,Mantenimiento,Dieta Baja en Grasas,400,Economico,20/04/2023,16/11/2023
+Sara Vargas Alvarez,38,F,68,1.63,25.59,Perdida de peso,Dieta Cetogenica,750,Alto,02/09/2023,29/04/2024
+Jorge Gonzalez Alvarez,37,F,90,1.61,34.72,Perdida de peso,Dieta Baja en Grasas,850,Alto,17/11/2023,14/06/2024
+Jorge Castro Ramirez,31,F,67,1.68,23.74,Mantenimiento,Dieta Baja en Grasas,300,Economico,14/07/2023,10/03/2024
+Antonio Navarro Munoz,47,M,84,1.61,32.41,Perdida de peso,Dieta DASH,350,Economico,11/01/2024,10/02/2024
+Cristina Romero Castro,52,F,89,1.78,28.09,Perdida de peso,Dieta Mediterranea,300,Economico,06/07/2023,02/01/2024
+Sara Dominguez Jimenez,48,F,69,1.8,21.3,Mantenimiento,Dieta DASH,700,Alto,03/01/2024,03/03/2024
+Alberto Gonzalez Gutierrez,29,F,69,1.66,25.04,Perdida de peso,Dieta Cetogenica,400,Economico,25/02/2023,26/04/2023
+Marta Fernandez Alvarez,19,F,104,1.62,39.63,Perdida de peso,Dieta Mediterranea,250,Economico,16/12/2023,14/04/2024
+Luis Gutierrez Hernandez,49,F,91,1.77,29.05,Perdida de peso,Dieta Mediterranea,400,Economico,18/12/2023,15/07/2024
+Irene Ramirez Perez,27,M,74,1.66,26.85,Perdida de peso,Dieta Baja en Grasas,600,Alto,23/02/2024,21/08/2024
+Lucia Hernandez Fernandez,24,M,69,1.66,25.04,Perdida de peso,Dieta DASH,300,Economico,14/09/2023,13/12/2023
+David Ruiz Garcia,54,F,110,1.74,36.33,Perdida de peso,Dieta Baja en Grasas,450,Medio,30/03/2023,27/08/2023
+Sofia Torres Hernandez,33,M,76,1.69,26.61,Perdida de peso,Dieta Cetogenica,300,Economico,04/02/2023,05/05/2023
+Daniel Lopez Ruiz,20,F,75,1.79,23.41,Mantenimiento,Dieta Mediterranea,300,Economico,25/01/2023,24/07/2023
+Jose Gonzalez Castro,49,F,87,1.65,31.96,Perdida de peso,Dieta Baja en Grasas,350,Economico,19/06/2023,19/07/2023
+Paula Garcia Jimenez,42,F,93,1.81,28.39,Perdida de peso,Dieta Mediterranea,550,Medio,19/04/2023,16/10/2023
+Sergio Sanchez Perez,44,F,65,1.78,20.52,Mantenimiento,Dieta DASH,350,Economico,16/04/2024,13/09/2024
+Irene Garcia Castro,54,F,97,1.66,35.2,Perdida de peso,Dieta Mediterranea,600,Alto,20/03/2023,16/10/2023
+Irene Garcia Lopez,25,M,83,1.81,25.34,Perdida de peso,Dieta Mediterranea,550,Medio,27/07/2023,26/08/2023
+Jorge Rodriguez Hernandez,47,F,96,1.64,35.69,Perdida de peso,Dieta Cetogenica,650,Alto,27/01/2023,27/04/2023
+Carlos Munoz Alonso,28,F,108,1.7,37.37,Perdida de peso,Dieta Baja en Grasas,250,Economico,05/03/2024,01/10/2024
+Elena Garcia Sanchez,31,M,89,1.68,31.53,Perdida de peso,Dieta DASH,500,Medio,16/05/2023,15/06/2023
+Carlos Dominguez Garcia,18,M,66,1.69,23.11,Mantenimiento,Dieta Mediterranea,550,Medio,25/02/2023,23/09/2023
+Carlos Rodriguez Lopez,27,M,72,1.74,23.78,Mantenimiento,Dieta DASH,300,Economico,22/01/2024,22/03/2024
+Diana Ramirez Dominguez,48,F,83,1.81,25.34,Perdida de peso,Dieta Cetogenica,450,Medio,31/08/2023,30/10/2023
+Lucia Alvarez Gonzalez,49,F,77,1.67,27.61,Perdida de peso,Dieta Mediterranea,400,Economico,28/12/2023,27/03/2024
+Blanca Dominguez Navarro,47,F,77,1.79,24.03,Mantenimiento,Dieta Mediterranea,500,Medio,07/02/2023,05/10/2023
+Elena Romero Jimenez,54,F,82,1.81,25.03,Perdida de peso,Dieta Cetogenica,700,Alto,05/07/2023,03/10/2023
+Elena Navarro Perez,21,M,71,1.6,27.73,Perdida de peso,Dieta Baja en Grasas,400,Economico,18/03/2024,13/11/2024
+Sara Hernandez Jimenez,38,F,81,1.78,25.56,Perdida de peso,Dieta Baja en Grasas,300,Economico,03/02/2023,04/04/2023
+Alberto Flores Moreno,49,M,94,1.66,34.11,Perdida de peso,Dieta Cetogenica,650,Alto,24/11/2023,24/12/2023
+Maria Lopez Lopez,36,M,70,1.66,25.4,Perdida de peso,Dieta DASH,550,Medio,05/09/2023,02/04/2024
+Miguel Lopez Vargas,20,F,103,1.65,37.83,Perdida de peso,Dieta Cetogenica,300,Economico,03/10/2023,31/03/2024

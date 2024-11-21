@@ -1,0 +1,301 @@
+IdPaciente,Nombre,Edad,Genero,PesoInicial,Altura,IMC,Objetivo,IdRegimen,NombreRegimen,CostoRegimen,RangoCosto,FechaInicioRegimen,FechaFinRegimen,PorcionesDesayuno,PorcionesAlmuerzo,PorcionesCena,PorcionesColacion1,PorcionesColacion2,IngestaRealDesayuno,IngestaRealAlmuerzo,IngestaRealCena,IngestaRealColacion1,IngestaRealColacion2,PesoActual,SatisfaccionPaciente,EstadoPaciente,CitasAgendadas,CitasAsistidas
+1,Ana Lucia Perez Garza,30,F,68,1.65,24.97704316,Perdida de peso,R001,Dieta Mediterranea,550,Medio,05/07/2023,15/12/2023,3,4,4,1,0,3,4,4,1,0,62,5,Activo,5,5
+2,Juan Martinez Gonzalez,45,M,85,1.78,26.82742078,Mantenimiento,R002,Dieta DASH,500,Medio,15/02/2023,15/08/2023,3,4,3,1,1,3,4,3,1,1,84,5,Activo,4,4
+3,Maria de la Luz Rodriguez Avendano,36,F,72,1.6,28.125,Perdida de peso,R003,Dieta Baja en Carbohidratos,200,Economico,20/03/2023,20/07/2023,3,3,3,1,0,2,3,3,1,0,68,3,Inactivo,5,5
+4,Carlos Raul Lopez Hernandez,52,M,92,1.75,30.04081633,Perdida de peso,R004,Dieta Baja en Grasas,650,Alto,05/04/2023,05/10/2023,3,4,4,1,0,3,4,4,1,1,86,4,Activo,5,4
+5,Luisa Fernandez Ortiz,28,F,55,1.68,19.48696145,Ganancia de peso,R005,Dieta de Ganancia Muscular,700,Alto ,22/01/2023,22/05/2023,4,4,4,1,1,4,4,4,1,1,60,5,Inactivo,4,4
+6,Pedro Garcia Huerta,40,M,76,1.8,23.45679012,Mantenimiento,R006,Dieta Mediterranea,550,Medio,04/07/2023,08/01/2024,3,4,3,1,0,3,4,3,1,0,75,5,Activo,4,4
+7,Sofia Morales Mora,34,F,62,1.58,24.8357635,Perdida de peso,R007,Dieta Vegetariana,250,Economico,10/03/2023,10/07/2023,3,3,3,1,1,2,3,3,1,1,59,5,Activo,5,5
+8,Andres Ortega Perez,27,M,90,1.76,29.05475207,Perdida de peso,R008,Dieta Cetogenica,300,Economico,25/04/2023,25/10/2023,3,3,3,1,0,3,2,3,1,0,82,4,Activo,5,4
+9,Daniela Cruz Olvera,31,F,54,1.6,21.09375,Mantenimiento,R009,Dieta DASH,500,Medio,17/03/2023,17/09/2023,3,3,3,1,1,3,3,3,1,1,55,3,Activo,5,5
+10,Luis Arturo Ramirez Carro,39,M,120,1.82,36.22750875,Perdida de peso,R010,Dieta Baja en Grasas,700,Alto,20/02/2023,20/08/2023,3,4,3,1,0,3,4,3,1,0,110,5,Activo,6,6
+11,Jose Ricardo Diaz Gomez,50,M,105,1.78,33.13975508,Perdida de peso,R011,Dieta Mediterranea,550,Medio,10/07/2023,18/04/2024,3,3,3,1,0,3,3,3,1,0,78,5,Activo,7,7
+12,Laura Castillo Avila,29,F,65,1.7,22.49134948,Mantenimiento,R012,Dieta DASH,300,Economico,12/06/2023,12/12/2023,3,4,3,1,0,3,3,3,1,0,65,5,Activo,5,4
+13,Miguel Flores Rosas,42,M,90,1.74,29.72651605,Perdida de peso,R013,Dieta Baja en Carbohidratos,300,Economico,20/04/2023,20/10/2023,3,4,3,1,0,3,4,3,1,0,83,4,Activo,5,3
+14,Karla Nava Mendoza,33,F,58,1.65,21.30394858,Ganancia de peso,R014,Dieta de Ganancia Muscular,350,Economico,01/05/2023,01/11/2023,4,4,4,1,1,4,4,3,1,1,63,5,Activo,3,3
+15,Jorge Alfonso Garcia Loaiza,37,M,78,1.73,26.06167931,Mantenimiento,R015,Dieta DASH,450,Medio,15/06/2023,15/12/2023,3,3,3,1,1,3,3,3,1,1,78,4,Activo,5,5
+16,Patricia Jimenez Flores,45,F,82,1.63,30.86303587,Perdida de peso,R016,Dieta Vegetariana,500,Medio,01/07/2023,31/12/2023,3,4,3,1,0,2,3,3,1,0,77,4,Activo,6,5
+17,Roberto Carlos Santos Alvarez,54,M,95,1.72,32.11195241,Perdida de peso,R017,Dieta Baja en Grasas,450,Medio,15/04/2023,15/10/2023,3,4,3,1,0,3,4,3,1,0,87,5,Activo,4,4
+18,Maria Gabriela Ortiz Pinzon,25,F,62,1.67,22.23098713,Mantenimiento,R018,Dieta DASH,450,Medio,05/08/2023,05/02/2024,3,4,3,1,0,3,4,3,1,0,63,4,Activo,4,4
+19,Manuel Reyes Gutierrez,39,M,115,1.8,35.49382716,Perdida de peso,R019,Dieta Cetogenica,300,Economico,18/03/2023,18/09/2023,3,4,4,1,0,3,3,4,1,0,105,4,Activo,4,3
+20,Maria Elena Vargas Farias,32,F,53,1.58,21.23057202,Ganancia de peso,R020,Dieta de Ganancia Muscular,300,Economico,20/02/2023,20/08/2023,4,4,4,1,1,4,4,4,1,1,57,5,Inactivo,4,2
+21,Daniel Perez Torres,46,M,80,1.69,28.01022373,Perdida de peso,R021,Dieta Mediterranea,550,Medio,06/07/2023,14/03/2024,3,3,3,1,1,3,3,3,1,1,65,5,Activo,5,5
+22,Silvia Navarro Nicanor,30,F,70,1.64,26.0261749,Perdida de peso,R022,Dieta Baja en Carbohidratos,600,Alto ,05/04/2023,05/10/2023,3,4,3,1,0,3,2,3,1,0,66,4,Inactivo,5,5
+23,Marco Antorio Rivera Roman,41,M,85,1.75,27.75510204,Mantenimiento,R023,Dieta DASH,650,Alto,12/07/2023,12/01/2024,3,3,3,1,0,3,3,3,1,0,85,4,Activo,4,4
+24,Sandra Huerta Herrara,35,F,88,1.6,34.375,Perdida de peso,R024,Dieta Baja en Grasas,700,Alto,01/06/2023,01/12/2023,3,4,3,1,0,3,4,3,1,0,81,5,Activo,4,4
+25,Marco Aurelio Ibanez Olivez,28,M,67,1.76,21.62964876,Ganancia de peso,R025,Dieta de Ganancia Muscular,300,Economico,10/03/2023,10/09/2023,4,4,4,1,1,4,4,4,1,1,71,5,Inactivo,5,4
+26,Carmen Ayde Salazar Cortes,44,F,76,1.68,26.92743764,Mantenimiento,R026,Dieta Vegetariana,350,Economico,15/08/2023,15/02/2024,3,4,3,1,0,3,3,3,1,0,76,4,Activo,6,5
+27,Fernando Ramirez Leon,47,M,100,1.74,33.02946228,Perdida de peso,R027,Dieta Cetogenica,400,Medio,05/07/2023,05/01/2024,3,3,4,1,0,3,3,3,1,0,92,5,Activo,5,5
+28,Valeria Robles Garcia,53,F,78,1.58,31.24499279,Perdida de peso,R028,Dieta Baja en Grasas,550,Medio,01/04/2023,01/10/2023,3,4,4,1,0,3,4,4,1,0,70,4,Activo,5,5
+29,Nicolas Alvarez Baca,34,M,95,1.8,29.32098765,Perdida de peso,R029,Dieta Mediterranea,550,Medio,08/07/2023,25/03/2024,3,3,3,1,1,3,3,3,1,0,75,4,Activo,7,7
+30,Alicia Garcia Arroyo,31,F,66,1.63,24.84098009,Mantenimiento,R030,Dieta DASH,400,Medio,15/05/2023,15/11/2023,3,3,3,1,1,3,3,3,1,1,66,5,Activo,5,4
+31,Juan Perez Hernandez,32,M,85,1.75,27.75510204,Perdida de peso,R031,Dieta Mediterranea,300,Medio,01/01/2024,04/01/2024,5,4,5,1,0,4,4,3,0,1,80,5,Activo,8,7
+32,Victor Robles Garcia,21,M,66,1.66,23.95122659,Mantenimiento,R032,Dieta Baja en Grasas,500,Medio,28/07/2024,08/12/2024,3,3,2,1,0,3,3,3,1,1,64,5,Activo,10,10
+33,Maria Lopez Garcia,45,F,70,1.7,24.22145329,Perdida de peso,R033,Dieta Mediterranea,450,Medio,18/12/2023,18/05/2024,3,4,3,1,0,3,3,3,1,0,63,5,Activo,5,5
+34,Carlos Martinez Mendez,18,M,85,1.78,26.82742078,Perdida de peso,R034,Dieta Cetogenica,750,Alto ,08/12/2023,14/03/2024,3,4,3,2,1,2,2,3,1,1,83,4,Inactivo,5,3
+35,Laura Torres Rivera,18,F,80,1.65,29.38475666,Perdida de peso,R035,Dieta Baja en Grasas,500,Medio,12/12/2023,16/01/2024,3,3,2,1,1,2,2,2,0,1,81,2,Inactivo,8,1
+36,Kevin Hernandez Soriano,25,M,95,1.82,28.6801111,Perdida de peso,R036,Dieta Cetogenica,850,Alto ,22/12/2023,31/12/2024,3,3,1,1,0,2,2,1,1,2,65,5,Activo,8,7
+37,Martin Perez Gomez,29,M,85,1.76,27.44059917,Perdida de peso,R037,Dieta Baja en Carbohidratos,450,Medio,01/10/2023,01/04/2024,3,4,4,1,0,3,4,4,1,0,80,4,Activo,4,4
+38,Laura Rodriguez Sanchez,41,F,75,1.7,25.95155709,Mantenimiento,R038,Dieta DASH,430,Medio,25/08/2023,25/02/2024,3,4,3,1,1,3,4,3,1,1,74,5,Activo,4,4
+39,Roberto Diaz Mendoza,45,M,95,1.82,28.6801111,Perdida de peso,R039,Dieta Hipercalorica,380,Medio,05/09/2023,05/03/2024,3,4,4,1,0,3,4,4,1,0,90,4,Activo,4,4
+40,Teresa Martinez Delgado,36,F,62,1.61,23.91883029,Ganancia de peso,R040,Dieta Hipercalorica,460,Medio,01/07/2023,01/01/2024,4,4,4,1,1,4,4,4,1,1,64,5,Activo,4,4
+41,Andres Rodriguez Castillo,39,M,100,1.85,29.2184076,Perdida de peso,R041,Dieta de Proteinas,550,Medio,10/05/2023,10/11/2023,3,4,4,1,1,3,4,4,1,1,92,4,Activo,5,4
+42,Silvia Perez Gonzalez,34,F,68,1.65,24.97704316,Mantenimiento,R042,Dieta Vegetariana,420,Medio,25/06/2023,25/12/2023,3,4,3,1,1,3,4,3,1,1,67,5,Activo,4,4
+43,Cesar Gonzalez Ruiz,48,M,115,1.9,31.85595568,Perdida de peso,R043,Dieta Baja en Azucares,520,Medio,15/04/2023,15/10/2023,3,4,4,1,0,3,4,4,1,0,110,4,Activo,4,4
+44,Margarita Rodriguez Perez,33,F,70,1.68,24.8015873,Ganancia de peso,R044,Dieta Hipercalorica,460,Medio,01/07/2023,01/01/2024,4,4,4,1,1,4,4,4,1,1,73,5,Activo,4,4
+45,Carmen Silva Ramirez,47,F,64,1.72,21.63331531,Mantenimiento,R045,Dieta Mediterranea,550,Medio,05/07/2023,07/02/2024,3,4,3,1,1,3,4,3,1,1,64,5,Activo,5,5
+46,Jose Luis Mendoza Martinez,51,M,108,1.83,32.24939532,Perdida de peso,R046,Dieta Cetogenica,600,Medio,05/08/2023,05/02/2024,3,4,4,1,1,3,4,4,1,1,101,5,Activo,5,4
+47,Vanessa Hernandez Ramirez,43,F,95,1.75,31.02040816,Perdida de peso,R047,Dieta Baja en Azucares,480,Medio,10/09/2023,10/03/2024,3,4,4,1,1,3,4,4,1,1,88,4,Activo,4,4
+48,Eduardo Lopez Sanchez,38,M,102,1.8,31.48148148,Perdida de peso,R048,Dieta Baja en Azucares,460,Medio,05/08/2023,05/02/2024,3,4,4,1,0,4,4,4,1,0,99,4,Activo,5,4
+49,Rosa Fernandez Gonzalez,29,F,75,1.68,26.57312925,Mantenimiento,R049,Dieta de Proteinas,470,Medio,15/06/2023,15/12/2023,3,4,4,1,1,4,4,3,1,1,76,5,Activo,4,4
+50,Marta Ruiz Hernandez,33,F,95,1.7,32.87197232,Perdida de peso,R050,Dieta Cetogenica,510,Medio,10/05/2023,10/11/2023,3,4,4,1,1,3,4,4,1,1,90,4,Activo,5,4
+51,Pablo Garcia Ramirez,45,M,88,1.75,28.73469388,Mantenimiento,R051,Dieta Vegetariana,450,Medio,01/07/2023,01/01/2024,3,4,4,1,1,4,4,3,1,1,84,5,Activo,6,4
+52,Elena Martinez Perez,37,F,80,1.65,29.38475666,Perdida de peso,R052,Dieta Baja en Carbohidratos,470,Medio,10/06/2023,10/12/2023,3,4,4,1,1,4,4,4,1,1,78,4,Activo,4,4
+53,Sergio Perez Gomez,40,M,90,1.8,27.77777778,Mantenimiento,R053,Dieta Hipercalorica,480,Medio,01/05/2023,01/11/2023,3,4,4,1,1,4,4,3,1,1,85,5,Activo,7,4
+54,Lucia Sanchez Alvarez,36,F,82,1.7,28.37370242,Perdida de peso,R054,Dieta de Proteinas,490,Medio,05/06/2023,05/12/2023,3,4,4,1,0,4,4,3,1,0,79,4,Activo,5,4
+55,Juan Torres Garzon,43,M,100,1.85,29.2184076,Perdida de peso,R055,Dieta Cetogenica,500,Medio,15/05/2023,15/11/2023,3,4,4,1,1,3,4,4,1,1,98,4,Activo,5,4
+56,Antonio Gonzalez Paredes,39,M,85,1.74,28.07504294,Mantenimiento,R056,Dieta Mediterranea,460,Medio,01/07/2023,01/01/2024,3,4,4,1,1,4,4,3,1,1,83,5,Activo,6,4
+57,Teresa Martin Jimenez,28,F,72,1.67,25.81663021,Perdida de peso,R057,Dieta Baja en Azucares,460,Medio,05/06/2023,05/12/2023,3,4,4,1,0,4,4,3,1,0,70,4,Activo,8,4
+58,Javier Romero Diaz,42,M,105,1.82,31.69907016,Perdida de peso,R058,Dieta Baja en Carbohidratos,470,Medio,10/07/2023,10/01/2024,3,4,4,1,1,3,4,4,1,1,99,5,Activo,4,4
+59,Maria Jose Soledad Sanchez,20,F,69,1.67,24.74093729,Perdida de peso,R059,Dieta Cetogenica,650,Alto,08/01/2024,26/02/2024,3,3,3,1,0,4,4,3,1,1,69,3,Inactivo,4,1
+60,Daria Hernandez Castillano,19,F,68,1.67,24.38237298,Perdida de peso,R060,Dieta Cetogenica,700,Alto,08/01/2024,18/02/2024,3,3,3,1,0,4,3,3,1,1,69,2,Inactivo,6,2
+61,Juan Pablo Paleta Blanco,25,M,71,1.65,26.07897153,Perdida de peso,R061,Dieta Mediterranea,800,Alto,22/11/2024,22/11/2025,3,3,2,1,1,3,3,2,1,1,65,5,Activo,1,1
+62,Enrique Torres Vargas,48,M,88,1.76,28.40909091,Perdida de peso,R062,Dieta Mediterranea,400,Medio,10/07/2023,10/01/2024,3,3,4,1,1,3,3,4,1,1,81,5,Activo,5,4
+63,Andrea Ramirez Guzman,29,F,54,1.62,20.57613169,Mantenimiento,R063,Dieta DASH,350,Economico,10/06/2023,10/12/2023,3,4,3,1,0,3,4,3,1,0,55,4,Activo,4,3
+64,Mario Lopez Cabrera,39,M,110,1.85,32.14024836,Perdida de peso,R064,Dieta Baja en Carbohidratos,600,Medio,15/05/2023,15/11/2023,3,3,4,1,1,3,3,4,1,1,102,4,Activo,4,4
+65,Lucia Gonzalez Perez,33,F,62,1.64,23.05175491,Ganancia de peso,R065,Dieta de Ganancia Muscular,500,Medio,01/08/2023,01/02/2024,4,4,4,1,1,4,4,4,1,1,67,5,Activo,4,4
+66,Ricardo Vazquez Hernandez,43,M,90,1.8,27.77777778,Perdida de peso,R066,Dieta Baja en Grasas,300,Economico,20/07/2023,20/01/2024,3,3,3,1,0,3,3,3,1,0,84,4,Activo,4,4
+67,Valeria Jimenez Escobar,31,F,68,1.66,24.67702134,Mantenimiento,R067,Dieta Vegetariana,400,Medio,10/09/2023,10/03/2024,3,4,3,1,0,3,4,3,1,0,67,5,Activo,4,3
+68,Gabriel Rivera Mendoza,38,M,95,1.79,29.64951156,Perdida de peso,R068,Dieta Cetogenica,550,Medio,20/06/2023,20/12/2023,3,4,3,1,0,3,4,3,1,0,89,4,Activo,4,3
+69,Trino Rodriguez Sanchez,22,M,92,1.72,31.09789075,Perdida de peso,R069,Dieta Cetogenica,650,Alto,10/01/2023,18/02/2023,3,3,3,1,0,3,4,4,1,0,91,2,Inactivo,6,2
+70,Diana Rojas Fernandez,25,F,57,1.7,19.72318339,Ganancia de peso,R070,Dieta Hipercalorica,450,Medio,01/10/2023,01/04/2024,4,4,4,1,1,4,4,4,1,1,60,5,Activo,5,4
+71,Luis Morales Pena,50,M,100,1.82,30.18959063,Perdida de peso,R071,Dieta Baja en Grasas,320,Economico,15/07/2023,15/01/2024,3,3,4,1,1,3,3,4,1,1,91,4,Activo,4,3
+72,Karla Soto Hernandez,42,F,70,1.68,24.8015873,Mantenimiento,R072,Dieta Mediterranea,400,Medio,05/08/2023,05/02/2024,3,4,3,1,0,3,4,3,1,0,69,5,Activo,4,3
+73,Javier Nunez Vargas,36,M,85,1.77,27.13141179,Perdida de peso,R073,Dieta Baja en Carbohidratos,500,Medio,10/06/2023,10/12/2023,3,3,4,1,1,3,3,4,1,1,78,4,Activo,4,4
+74,Patricia Martinez Gomez,28,F,50,1.58,20.02884153,Ganancia de peso,R074,Dieta de Ganancia Muscular,450,Medio,01/09/2023,01/03/2024,4,4,4,1,1,4,4,4,1,1,55,5,Activo,4,4
+75,Fernando Reyes Olvera,40,M,120,1.9,33.24099723,Perdida de peso,R075,Dieta Cetogenica,600,Medio,01/05/2023,01/11/2023,3,4,4,1,0,3,4,4,1,0,108,4,Activo,4,3
+76,Mariana Ortega Carrillo,27,F,68,1.65,24.97704316,Mantenimiento,R076,Dieta DASH,400,Medio,01/08/2023,01/02/2024,3,4,3,1,1,3,4,3,1,1,67,5,Activo,5,4
+77,Oscar Sanchez Rivas,34,M,92,1.78,29.03673779,Perdida de peso,R077,Dieta Baja en Grasas,380,Medio,10/07/2023,10/01/2024,3,3,4,1,0,3,3,4,1,0,85,4,Activo,4,3
+78,Sofia Guzman Morales,30,F,56,1.63,21.07719523,Mantenimiento,R078,Dieta Mediterranea,400,Medio,05/06/2023,05/12/2023,3,4,3,1,1,3,4,3,1,1,55,5,Activo,4,4
+79,Emilio Romero Aguilar,42,M,115,1.86,33.24083709,Perdida de peso,R079,Dieta Baja en Carbohidratos,550,Medio,15/05/2023,15/11/2023,3,4,4,1,0,3,4,4,1,0,106,4,Activo,5,4
+80,Isabel Herrera Soto,38,F,72,1.67,25.81663021,Ganancia de peso,R080,Dieta de Ganancia Muscular,450,Medio,01/08/2023,01/02/2024,4,4,4,1,1,4,4,4,1,1,75,5,Activo,4,3
+81,Diego Lopez Juarez,46,M,96,1.83,28.66612918,Perdida de peso,R081,Dieta Cetogenica,600,Medio,01/07/2023,01/01/2024,3,3,4,1,1,3,3,4,1,1,89,5,Activo,4,3
+82,Gabriela Mendez Ruiz,29,F,64,1.66,23.22543185,Mantenimiento,R082,Dieta DASH,350,Economico,01/09/2023,01/03/2024,3,4,3,1,0,3,4,3,1,0,63,5,Activo,4,4
+83,Andres Ortega Villanueva,37,M,98,1.81,29.9136168,Perdida de peso,R083,Dieta Baja en Grasas,380,Medio,10/06/2023,10/12/2023,3,4,4,1,0,3,4,4,1,0,90,4,Activo,5,4
+84,Paula Jimenez Vega,27,F,51,1.6,19.921875,Ganancia de peso,R084,Dieta Hipercalorica,450,Medio,01/10/2023,01/04/2024,4,4,4,1,1,4,4,4,1,1,55,5,Activo,5,4
+85,Hugo Castillo Flores,45,M,88,1.76,28.40909091,Perdida de peso,R085,Dieta Mediterranea,400,Medio,15/07/2023,15/01/2024,3,3,4,1,1,3,3,4,1,1,80,4,Activo,4,3
+86,Natalia Perez Mendoza,33,F,67,1.65,24.6097337,Mantenimiento,R086,Dieta Vegetariana,400,Medio,10/08/2023,10/02/2024,3,4,3,1,0,3,4,3,1,0,66,5,Activo,4,3
+87,Javier Ruiz Lopez,39,M,105,1.85,30.67932798,Perdida de peso,R087,Dieta Baja en Carbohidratos,550,Medio,01/09/2023,01/03/2024,3,4,4,1,0,3,4,4,1,0,98,4,Activo,5,4
+88,Alejandra Sanchez Gutierrez,35,F,62,1.62,23.62444749,Mantenimiento,R088,Dieta Mediterranea,400,Medio,15/08/2023,15/02/2024,3,4,3,1,1,3,4,3,1,1,61,5,Activo,4,4
+89,Ricardo Fernandez Ramirez,48,M,120,1.89,33.59368439,Perdida de peso,R089,Dieta Cetogenica,600,Medio,20/07/2023,20/01/2024,3,4,4,1,1,3,4,4,1,1,112,5,Activo,5,4
+90,Marisol Vargas Estrada,29,F,55,1.59,21.75546853,Ganancia de peso,R090,Dieta Hipercalorica,450,Medio,15/10/2023,15/04/2024,4,4,4,1,1,4,4,4,1,1,58,5,Activo,4,4
+91,Luis Castro Martinez,36,M,92,1.8,28.39506173,Perdida de peso,R091,Dieta Baja en Grasas,380,Medio,10/06/2023,10/12/2023,3,4,4,1,0,3,4,4,1,0,85,4,Activo,4,3
+92,Fernanda Martinez Delgado,31,F,60,1.64,22.30814991,Mantenimiento,R092,Dieta DASH,350,Economico,20/09/2023,20/03/2024,3,4,3,1,1,3,4,3,1,1,59,5,Activo,4,4
+93,Alberto Torres Romero,44,M,102,1.84,30.12759924,Perdida de peso,R093,Dieta Baja en Carbohidratos,550,Medio,01/07/2023,01/01/2024,3,4,4,1,0,3,4,4,1,0,95,5,Activo,5,4
+94,Daniela Soto Vargas,40,F,70,1.65,25.71166208,Ganancia de peso,R094,Dieta de Ganancia Muscular,450,Medio,10/08/2023,10/02/2024,4,4,4,1,1,4,4,4,1,1,74,5,Activo,4,4
+95,Enrique Lopez Martinez,32,M,86,1.77,27.45060487,Perdida de peso,R095,Dieta Baja en Grasas,380,Medio,05/06/2023,05/12/2023,3,4,4,1,0,3,4,4,1,0,79,4,Activo,4,3
+96,Carmen Flores Aguilar,38,F,68,1.66,24.67702134,Mantenimiento,R096,Dieta Vegetariana,400,Medio,15/07/2023,15/01/2024,3,4,3,1,1,3,4,3,1,1,67,5,Activo,4,4
+97,Erick Maximiliano Montenegro Preza,21,M,100,1.05,90.70294785,Perdida de peso,R097,Dieta Baja en Carbohidratos,800,Alto,28/04/2023,31/12/2025,3,2,1,1,0,3,2,1,1,0,80,5,Activo,5,4
+98,Joseph Alexander Casillas Pardo,55,M,71,1.65,26.07897153,Mantenimiento,R098,Dieta Vegetariana,500,Medio,12/12/2023,12/12/2024,3,2,2,1,1,2,2,1,1,1,60,4,Inactivo,5,4
+99,Alexis Leon Sanchez,21,M,85,1.7,29.41176471,Perdida de peso,R099,Dieta Baja en Carbohidratos,600,Alto,06/01/2023,22/02/2023,3,3,2,1,0,4,4,3,1,1,86,3,Inactivo,5,2
+100,Luis Pedro VargasTorres ,24,M,92,1.78,29.03673779,Perdida de peso,R100,Dieta Baja en Carbohidratos,650,Alto,10/11/2023,21/12/2023,3,3,2,1,0,4,4,3,1,1,99,2,Inactivo,3,1
+101,Ana Ruiz Martin,29,F,94,1.76,30.34607438,Perdida de peso,R101,Dieta Mediterranea,350,Economico,27/10/2023,24/05/2024,3,3,2,1,0,3,3,2,1,0,78,5,Activo,7,7
+102,Juan Sanchez Diaz,41,M,65,1.67,23.30668005,Perdida de peso,R102,Dieta DASH,650,Alto,03/04/2023,29/11/2023,3,3,3,1,0,3,3,3,1,0,58,5,Inactivo,7,7
+103,Jose Munoz Martinez,34,M,102,1.77,32.55769415,Perdida de peso,R103,Dieta Cetogenica,300,Economico,17/06/2023,13/01/2024,3,2,2,1,0,3,2,2,1,1,85,4,Activo,6,5
+104,Ana Diaz Fernandez,27,F,79,1.65,29.0174472,Perdida de peso,R104,Dieta Baja en Grasas,700,Alto,08/03/2023,03/11/2023,3,2,2,1,0,3,3,2,1,0,62,4,Activo,6,5
+105,Alberto Alonso Castro,44,M,101,1.74,33.3597569,Perdida de peso,R105,Dieta DASH,300,Economico,09/04/2024,06/10/2024,3,3,2,1,0,3,3,3,1,0,82,4,Inactivo,6,5
+106,Javier Dominguez Gonzalez,37,M,64,1.62,24.38652644,Perdida de peso,R106,Dieta Baja en Grasas,350,Economico,25/08/2023,24/10/2023,3,2,2,1,0,3,3,2,1,0,62,3,Inactivo,4,2
+107,Claudia Castro Flores,38,F,104,1.73,34.74890574,Perdida de peso,R107,Dieta Baja en Grasas,800,Alto,01/07/2023,30/08/2023,3,2,2,1,0,3,3,2,2,1,105,1,Inactivo,6,2
+108,Lucia Sanchez Ruiz,19,F,63,1.63,23.71184463,Perdida de peso,R108,Dieta DASH,550,Medio,22/02/2024,22/05/2024,3,3,2,1,0,3,3,2,1,0,58,4,Inactivo,4,4
+109,Manuel Vargas Alonso,28,M,69,1.67,24.74093729,Perdida de peso,R109,Dieta DASH,700,Alto,25/01/2024,22/08/2024,3,3,2,1,0,3,3,2,1,0,65,5,Activo,6,6
+110,Jorge Rodriguez Martin,39,M,89,1.64,33.09042237,Perdida de peso,R110,Dieta DASH,550,Medio,27/01/2023,28/03/2023,3,3,2,1,0,3,3,2,2,1,89,3,Inactivo,5,3
+111,Alberto Moreno Dominguez,43,M,82,1.64,30.48780488,Perdida de peso,R111,Dieta Cetogenica,300,Economico,29/10/2023,28/11/2023,3,2,2,1,0,3,2,2,1,1,82,2,Inactivo,4,2
+112,Jorge Ruiz Sanchez,27,M,75,1.64,27.88518739,Perdida de peso,R112,Dieta Mediterranea,700,Alto,07/05/2023,05/08/2023,3,3,2,1,1,3,3,2,1,0,72,3,Inactivo,4,3
+113,Miguel Alvarez Sanchez,34,M,73,1.7,25.25951557,Perdida de peso,R113,Dieta Baja en Grasas,250,Economico,23/12/2023,20/07/2024,3,2,2,1,0,3,3,2,1,0,68,4,Activo,7,6
+114,Ana Rodriguez Lopez,55,F,76,1.65,27.91551882,Perdida de peso,R114,Dieta DASH,350,Economico,11/10/2023,08/04/2024,3,3,2,1,0,3,3,2,1,0,59,5,Inactivo,6,6
+115,Lucia Navarro Sanchez,44,F,90,1.8,27.77777778,Ganancia de peso,R115,Dieta Mediterranea,450,Medio,31/03/2024,29/07/2024,3,3,2,1,1,3,3,2,1,0,78,4,Activo,6,6
+116,Carlos Garcia Flores,24,M,70,1.79,21.84700852,Mantenimiento,R116,Dieta Mediterranea,750,Alto,26/02/2024,26/04/2024,3,3,2,1,1,3,3,2,2,1,71,3,Inactivo,4,2
+117,Antonio Romero Alonso,20,M,61,1.77,19.47077787,Ganancia de peso,R117,Dieta Baja en Grasas,400,Economico,25/06/2023,21/01/2024,3,2,2,1,0,3,3,2,1,0,61,5,Activo,5,5
+118,Ana Diaz Gutierrez,50,F,69,1.67,24.74093729,Perdida de peso,R118,Dieta Mediterranea,400,Economico,16/02/2024,15/07/2024,3,3,2,1,1,3,3,2,1,0,65,4,Inactivo,4,4
+119,Irene Garcia Torres,21,F,99,1.7,34.25605536,Perdida de peso,R119,Dieta Mediterranea,300,Economico,14/08/2023,13/10/2023,3,3,2,1,1,3,3,2,1,0,71,3,Inactivo,5,3
+120,Lucia Moreno Sanchez,24,F,72,1.78,22.72440348,Perdida de peso,R120,Dieta Baja en Grasas,250,Economico,16/11/2023,16/12/2023,3,2,2,1,0,3,3,2,1,0,72,2,Inactivo,4,2
+121,David Lopez Alvarez,29,M,88,1.77,28.08899103,Perdida de peso,R121,Dieta DASH,750,Alto,11/01/2023,12/03/2023,3,3,2,1,0,3,3,2,1,0,84,3,Inactivo,5,3
+122,Paula Romero Rodriguez,18,F,91,1.76,29.37758264,Perdida de peso,R122,Dieta Mediterranea,600,Alto,15/09/2023,13/03/2024,3,3,2,1,1,3,3,2,1,0,88,5,Activo,6,6
+123,Jose Castro Rodriguez,23,M,95,1.79,29.64951156,Perdida de peso,R123,Dieta DASH,800,Alto,15/03/2024,13/07/2024,3,3,2,1,0,3,3,2,1,0,88,5,Activo,6,6
+124,Carlos Martin Sanchez,30,M,66,1.74,21.79944511,Perdida de peso,R124,Dieta DASH,600,Alto,21/12/2023,19/02/2024,3,3,2,1,0,3,3,3,1,0,60,4,Inactivo,5,3
+125,Irene Martinez Lopez,28,F,104,1.61,40.12190888,Perdida de peso,R125,Dieta DASH,250,Economico,18/02/2023,16/10/2023,3,3,2,1,0,3,3,3,1,0,86,4,Activo,6,6
+126,Javier Navarro Sanchez,22,M,96,1.69,33.61226848,Perdida de peso,R126,Dieta Cetogenica,500,Medio,28/06/2023,28/07/2023,3,2,2,1,0,3,2,3,2,1,94,2,Inactivo,4,2
+127,Alberto Lopez Torres,31,M,68,1.62,25.91068435,Perdida de peso,R127,Dieta Cetogenica,600,Alto,07/05/2023,04/10/2023,3,2,2,1,0,3,2,2,1,1,59,4,Activo,5,5
+128,Sergio Gutierrez Castro,55,M,69,1.62,26.29172382,Perdida de peso,R128,Dieta Baja en Grasas,400,Economico,20/04/2023,18/08/2023,3,2,2,1,0,3,3,2,1,0,58,4,Inactivo,5,4
+129,David Rodriguez Martin,25,M,65,1.63,24.4646016,Perdida de peso,R129,Dieta Mediterranea,400,Economico,10/11/2023,10/12/2023,3,3,2,1,1,3,3,2,1,0,63,2,Inactivo,4,2
+130,Cristina Gutierrez Perez,29,F,67,1.7,23.183391,Perdida de peso,R130,Dieta DASH,350,Economico,26/09/2023,23/05/2024,3,3,2,1,0,3,3,3,1,1,60,4,Activo,6,3
+131,Manuel Gonzalez Gutierrez,22,M,78,1.63,29.35752192,Perdida de peso,R131,Dieta Mediterranea,800,Alto,02/05/2023,30/08/2023,3,3,2,1,1,3,3,2,1,0,74,3,Inactivo,4,2
+132,Javier Munoz Moreno,45,M,103,1.77,32.87688723,Perdida de peso,R132,Dieta Mediterranea,800,Alto,11/01/2023,09/08/2023,3,3,2,1,1,3,3,2,1,0,88,3,Inactivo,7,5
+133,Marta Torres Perez,53,F,92,1.81,28.08217087,Perdida de peso,R133,Dieta Cetogenica,700,Alto,31/12/2023,28/07/2024,3,2,2,1,0,3,2,2,1,2,75,4,Activo,6,5
+134,Antonio Dominguez Garcia,20,M,79,1.67,28.32658037,Perdida de peso,R134,Dieta Baja en Grasas,500,Medio,04/01/2023,02/08/2023,3,2,2,1,0,3,3,2,1,0,68,4,Activo,5,5
+135,Sara Castro Castro,22,F,90,1.75,29.3877551,Perdida de peso,R135,Dieta Baja en Grasas,800,Alto,26/09/2023,25/12/2023,3,2,2,1,0,3,3,3,2,1,90,3,Inactivo,4,2
+136,Irene Moreno Hernandez,38,F,96,1.75,31.34693878,Perdida de peso,R136,Dieta DASH,700,Alto,16/04/2023,12/12/2023,3,3,2,1,0,3,3,3,1,0,84,5,Activo,5,5
+137,Lucia Fernandez Dominguez,46,F,69,1.7,23.87543253,Perdida de peso,R137,Dieta DASH,350,Economico,24/03/2024,20/10/2024,3,3,2,1,0,3,3,3,1,0,64,4,Inactivo,5,4
+138,David Navarro Torres,24,M,104,1.65,38.20018365,Perdida de peso,R138,Dieta Cetogenica,400,Economico,18/04/2023,14/11/2023,3,2,2,1,0,3,2,2,1,1,88,3,Inactivo,6,4
+139,Claudia Ramirez Hernandez,31,F,81,1.63,30.48665738,Perdida de peso,R139,Dieta DASH,650,Alto,19/05/2023,18/07/2023,3,3,2,1,0,3,3,3,1,0,79,3,Inactivo,4,2
+140,Jose Gonzalez Garcia,30,M,108,1.76,34.86570248,Perdida de peso,R140,Dieta Cetogenica,600,Alto,24/06/2023,22/09/2023,3,2,2,1,0,3,2,2,1,0,102,3,Inactivo,5,3
+141,Juan Castro Gutierrez,34,M,87,1.77,27.76979795,Perdida de peso,R141,Dieta Cetogenica,300,Economico,18/11/2023,16/04/2024,3,2,2,1,0,3,2,2,1,0,64,5,Activo,6,6
+142,Alejandro Sanchez Lopez,52,M,84,1.72,28.39372634,Perdida de peso,R142,Dieta Mediterranea,550,Medio,25/11/2023,22/07/2024,3,3,2,1,1,3,3,2,1,0,74,5,Inactivo,6,6
+143,Sergio Alvarez Garcia,24,M,96,1.81,29.30313482,Perdida de peso,R143,Dieta Cetogenica,850,Alto,08/08/2023,05/01/2024,3,2,2,1,0,3,2,2,1,0,93,3,Inactivo,3,2
+144,Francisco Romero Navarro,20,M,104,1.71,35.56649909,Perdida de peso,R144,Dieta DASH,450,Medio,28/04/2024,27/06/2024,3,3,2,1,0,3,3,3,1,0,104,1,Inactivo,3,2
+145,Antonio Flores Castro,49,M,105,1.79,32.77051278,Perdida de peso,R145,Dieta Baja en Grasas,350,Economico,25/08/2023,24/09/2023,3,2,2,1,0,3,3,2,1,0,87,4,Inactivo,6,6
+146,Juan Gonzalez Rodriguez,54,M,72,1.78,22.72440348,Mantenimiento,R146,Dieta Baja en Grasas,400,Economico,14/12/2023,12/05/2024,3,2,2,1,0,3,3,2,1,0,70,3,Inactivo,6,5
+147,Sara Perez Navarro,30,F,105,1.74,34.68093539,Perdida de peso,R147,Dieta Cetogenica,750,Alto,01/05/2023,29/08/2023,3,2,2,1,0,3,2,2,1,0,95,4,Activo,4,4
+148,Manuel Alvarez Gutierrez,43,M,91,1.68,32.24206349,Perdida de peso,R148,Dieta Mediterranea,700,Alto,27/05/2023,26/07/2023,3,3,2,1,1,3,3,2,1,0,88,5,Activo,3,3
+149,Sofia Garcia Gonzalez,51,F,98,1.7,33.9100346,Perdida de peso,R149,Dieta Cetogenica,800,Alto,16/01/2024,13/08/2024,3,2,2,1,0,3,2,2,1,0,79,5,Activo,5,5
+150,Marta Gutierrez Diaz,24,F,76,1.67,27.25088745,Perdida de peso,R150,Dieta Mediterranea,450,Medio,25/11/2023,24/03/2024,3,3,2,1,1,3,3,2,1,0,70,4,Activo,4,4
+151,Cristina Garcia Vargas,26,F,80,1.66,29.03178981,Perdida de peso,R151,Dieta Mediterranea,250,Economico,22/07/2023,20/10/2023,3,3,2,1,1,3,3,2,1,0,76,3,Inactivo,4,3
+152,Elena Vargas Romero,25,F,98,1.62,37.34186862,Perdida de peso,R152,Dieta DASH,300,Economico,29/01/2024,29/03/2024,3,3,2,1,0,3,3,3,2,2,99,2,Inactivo,3,2
+153,Juan Gutierrez Garcia,31,M,80,1.65,29.38475666,Perdida de peso,R153,Dieta Cetogenica,350,Economico,06/01/2024,06/03/2024,3,2,2,1,0,3,2,2,1,2,79,2,Inactivo,3,2
+154,Miguel Jimenez Garcia,27,M,60,1.7,20.76124567,Mantenimiento,R154,Dieta Mediterranea,450,Medio,22/01/2024,19/08/2024,3,3,2,1,1,3,3,2,1,1,58,5,Activo,4,4
+155,Maria Jimenez Gonzalez,26,F,70,1.81,21.36686914,Mantenimiento,R155,Dieta Mediterranea,300,Economico,02/03/2023,29/08/2023,3,3,2,1,1,3,3,2,1,0,69,4,Activo,5,4
+156,Isabel Romero Sanchez,23,F,91,1.65,33.4251607,Perdida de peso,R156,Dieta Mediterranea,550,Medio,12/07/2023,10/09/2023,3,3,2,1,1,3,3,2,2,1,88,3,Inactivo,4,3
+157,Maria Hernandez Hernandez,26,F,96,1.76,30.99173554,Perdida de peso,R157,Dieta Mediterranea,300,Economico,02/01/2023,01/06/2023,3,3,2,1,1,3,3,2,1,0,90,3,Inactivo,4,4
+158,Paula Garcia Garcia,46,F,79,1.66,28.66889244,Perdida de peso,R158,Dieta Cetogenica,550,Medio,26/04/2023,22/11/2023,3,2,2,1,0,3,2,2,1,1,72,4,Activo,5,5
+159,Paula Alonso Lopez,22,F,82,1.68,29.05328798,Perdida de peso,R159,Dieta DASH,500,Medio,03/11/2023,30/06/2024,3,3,2,1,0,3,3,3,1,0,70,4,Activo,5,5
+160,Daniel Navarro Martinez,28,M,95,1.68,33.65929705,Perdida de peso,R160,Dieta Baja en Grasas,400,Economico,17/02/2023,17/06/2023,3,2,2,1,0,3,3,2,1,0,85,5,Activo,6,6
+161,Marta Diaz Alvarez,29,F,110,1.7,38.06228374,Perdida de peso,R161,Dieta Mediterranea,700,Alto,07/11/2023,05/02/2024,3,3,2,1,1,3,3,3,1,0,98,5,Activo,4,4
+162,Javier Gonzalez Gonzalez,45,M,97,1.73,32.41003709,Perdida de peso,R162,Dieta DASH,700,Alto,28/05/2023,23/01/2024,3,3,2,1,0,3,3,3,1,0,86,5,Activo,5,5
+163,Juan Lopez Lopez,44,M,74,1.74,24.44180209,Perdida de peso,R163,Dieta DASH,250,Economico,20/02/2023,21/04/2023,3,3,2,1,0,3,3,2,1,0,72,2,Inactivo,3,2
+164,Alberto Lopez Flores,20,M,94,1.68,33.30498866,Perdida de peso,R164,Dieta Baja en Grasas,300,Economico,29/03/2024,27/06/2024,3,2,2,1,0,3,3,2,1,0,88,5,Activo,4,4
+165,Lucia Martin Martin,34,F,83,1.68,29.40759637,Perdida de peso,R165,Dieta DASH,300,Economico,18/02/2023,19/05/2023,3,3,2,1,0,3,3,3,1,0,76,4,Inactivo,5,4
+166,David Ramirez Gutierrez,28,M,63,1.71,21.5450908,Mantenimiento,R166,Dieta Baja en Grasas,400,Economico,04/03/2023,02/06/2023,3,2,2,1,0,3,2,2,1,0,59,4,Inactivo,4,4
+167,Laura Lopez Ramirez,37,F,74,1.73,24.72518293,Perdida de peso,R167,Dieta Baja en Grasas,400,Economico,20/04/2023,16/11/2023,3,2,2,1,0,3,2,2,1,0,62,5,Inactivo,5,5
+168,Sara Vargas Alvarez,38,F,68,1.63,25.59373706,Perdida de peso,R168,Dieta Cetogenica,750,Alto,02/09/2023,29/04/2024,3,2,2,1,0,3,2,2,1,1,56,5,Inactivo,5,5
+169,Jorge Gonzalez Alvarez,37,M,90,1.61,34.72088268,Perdida de peso,R169,Dieta Baja en Grasas,850,Alto,17/11/2023,14/06/2024,3,2,2,1,0,3,2,2,1,0,75,5,Activo,6,6
+170,Jorge Castro Ramirez,31,M,67,1.68,23.73866213,Perdida de peso,R170,Dieta Baja en Grasas,300,Economico,14/07/2023,10/03/2024,3,2,2,1,0,3,2,2,1,0,65,5,Inactivo,3,3
+171,Antonio Navarro Munoz,47,M,84,1.61,32.40615717,Perdida de peso,R171,Dieta DASH,350,Economico,11/01/2024,10/02/2024,3,3,2,1,0,3,3,3,1,1,84,2,Inactivo,3,2
+172,Cristina Romero Castro,52,F,89,1.78,28.08988764,Perdida de peso,R172,Dieta Mediterranea,300,Economico,06/07/2023,02/01/2024,3,3,2,1,1,3,3,3,1,0,75,4,Inactivo,5,5
+173,Sara Dominguez Jimenez,48,F,69,1.8,21.2962963,Perdida de peso,R173,Dieta DASH,700,Alto,03/01/2024,03/03/2024,3,3,2,1,0,3,3,3,1,1,70,2,Inactivo,3,2
+174,Alberto Gonzalez Gutierrez,29,M,69,1.66,25.03991871,Perdida de peso,R174,Dieta Cetogenica,400,Economico,25/02/2023,26/04/2023,3,2,2,1,0,3,2,2,1,1,68,2,Inactivo,3,2
+175,Marta Fernandez Alvarez,19,F,104,1.62,39.62810547,Perdida de peso,R175,Dieta Mediterranea,250,Economico,16/12/2023,14/04/2024,3,3,2,1,1,3,3,3,1,0,91,4,Activo,4,4
+176,Luis Gutierrez Hernandez,49,M,91,1.77,29.04657027,Perdida de peso,R176,Dieta Mediterranea,400,Economico,18/12/2023,15/07/2024,3,3,2,1,1,3,3,3,1,0,86,5,Activo,5,4
+177,Irene Ramirez Perez,27,F,74,1.66,26.85440557,Perdida de peso,R177,Dieta Baja en Grasas,600,Alto,23/02/2024,21/08/2024,3,2,2,1,0,3,2,2,1,0,64,4,Inactivo,4,4
+178,Lucia Hernandez Fernandez,24,F,69,1.66,25.03991871,Perdida de peso,R178,Dieta DASH,300,Economico,14/09/2023,13/12/2023,3,3,2,1,0,3,3,3,1,1,59,4,Inactivo,5,5
+179,David Ruiz Garcia,54,M,110,1.74,36.33240851,Perdida de peso,R179,Dieta Baja en Grasas,450,Medio,30/03/2023,27/08/2023,3,2,2,1,0,3,2,2,1,0,94,4,Inactivo,5,5
+180,Sofia Torres Hernandez,33,F,76,1.69,26.60971255,Perdida de peso,R180,Dieta Cetogenica,300,Economico,04/02/2023,05/05/2023,3,2,2,1,0,3,2,2,1,0,70,4,Activo,3,3
+181,Daniel Lopez Ruiz,20,M,75,1.79,23.40750913,Perdida de peso,R181,Dieta Mediterranea,300,Economico,25/01/2023,24/07/2023,3,3,2,1,1,3,3,3,1,0,70,5,Inactivo,6,6
+182,Jose Gonzalez Castro,49,M,87,1.65,31.95592287,Perdida de peso,R182,Dieta Baja en Grasas,350,Economico,19/06/2023,19/07/2023,3,2,2,1,0,3,2,2,1,0,87,1,Inactivo,4,2
+183,Paula Garcia Jimenez,42,F,93,1.81,28.38741186,Perdida de peso,R183,Dieta Mediterranea,550,Medio,19/04/2023,16/10/2023,3,3,2,1,1,3,3,3,1,0,79,5,Inactivo,5,5
+184,Sergio Sanchez Perez,44,M,65,1.78,20.51508648,Mantenimiento,R184,Dieta DASH,350,Economico,16/04/2024,13/09/2024,3,3,2,1,0,3,3,2,1,1,65,4,Inactivo,4,4
+185,Irene Garcia Castro,54,F,97,1.66,35.20104514,Perdida de peso,R185,Dieta Mediterranea,600,Alto,20/03/2023,16/10/2023,3,3,2,1,1,3,3,3,1,0,70,5,Activo,6,6
+186,Irene Garcia Lopez,25,F,83,1.81,25.33500198,Perdida de peso,R186,Dieta Mediterranea,550,Medio,27/07/2023,26/08/2023,3,3,2,1,1,3,3,3,1,0,91,3,Inactivo,4,3
+187,Jorge Rodriguez Hernandez,47,M,96,1.64,35.69303986,Perdida de peso,R187,Dieta Cetogenica,650,Alto,27/01/2023,27/04/2023,3,2,2,1,0,3,2,2,1,1,90,2,Inactivo,3,2
+188,Carlos Munoz Alonso,28,M,108,1.7,37.37024221,Perdida de peso,R188,Dieta Baja en Grasas,250,Economico,05/03/2024,01/10/2024,3,2,2,1,0,3,2,2,1,0,80,5,Activo,6,6
+189,Elena Garcia Sanchez,31,F,89,1.68,31.53344671,Perdida de peso,R189,Dieta DASH,500,Medio,16/05/2023,15/06/2023,3,3,2,1,0,3,3,2,1,1,88,2,Inactivo,3,2
+190,Carlos Dominguez Garcia,18,M,66,1.69,23.10843458,Perdida de peso,R190,Dieta Mediterranea,550,Medio,25/02/2023,23/09/2023,3,3,2,1,1,3,3,3,1,0,62,4,Inactivo,4,4
+191,Carlos Rodriguez Lopez,27,M,72,1.74,23.78121284,Perdida de peso,R191,Dieta DASH,300,Economico,22/01/2024,22/03/2024,3,3,2,1,0,3,3,2,1,1,69,4,Inactivo,4,3
+192,Diana Ramirez Dominguez,48,F,83,1.81,25.33500198,Perdida de peso,R192,Dieta Cetogenica,450,Medio,31/08/2023,30/10/2023,3,2,2,1,0,3,2,2,1,1,80,2,Inactivo,4,2
+193,Lucia Alvarez Gonzalez,49,F,77,1.67,27.60945176,Perdida de peso,R193,Dieta Mediterranea,400,Economico,28/12/2023,27/03/2024,3,3,2,1,1,3,3,3,1,0,64,5,Activo,5,5
+194,Blanca Dominguez Navarro,47,F,77,1.79,24.03170937,Perdida de peso,R194,Dieta Mediterranea,500,Medio,07/02/2023,05/10/2023,3,3,2,1,1,3,3,3,1,0,74,4,Inactivo,5,5
+195,Elena Romero Jimenez,54,F,82,1.81,25.029761,Perdida de peso,R195,Dieta Cetogenica,700,Alto,05/07/2023,03/10/2023,3,2,2,1,0,3,2,2,1,1,80,3,Inactivo,3,2
+196,Elena Navarro Perez,21,F,71,1.6,27.734375,Perdida de peso,R196,Dieta Baja en Grasas,400,Economico,18/03/2024,13/11/2024,3,2,2,1,0,3,2,2,1,0,64,5,Activo,5,5
+197,Sara Hernandez Jimenez,38,F,81,1.78,25.56495392,Perdida de peso,R197,Dieta Baja en Grasas,300,Economico,03/02/2023,04/04/2023,3,2,2,1,0,3,2,2,1,0,79,2,Inactivo,4,2
+198,Alberto Flores Moreno,49,M,94,1.66,34.11235303,Perdida de peso,R198,Dieta Cetogenica,650,Alto,24/11/2023,24/12/2023,3,2,2,1,0,3,2,2,1,1,94,2,Inactivo,3,2
+199,Maria Lopez Lopez,36,F,70,1.66,25.40281608,Perdida de peso,R199,Dieta DASH,550,Medio,05/09/2023,02/04/2024,3,3,2,1,0,3,3,2,1,1,64,4,Inactivo,5,5
+200,Miguel Lopez Vargas,20,M,103,1.65,37.8328742,Perdida de peso,R200,Dieta Cetogenica,300,Economico,03/10/2023,31/03/2024,3,2,2,1,0,3,2,2,1,0,89,4,Inactivo,5,5
+201,Luis Alejandro Garcia Lopez,64,M,77,1.52,33.32756233,Perdida de peso,R201,Dieta de Ganancia Muscular,350,Economico,06/12/2023,30/01/2024,3,4,3,1,0,3,4,3,1,0,72,2,Activo,9,2
+202,Ana  Gonzalez Perez,31,F,50,1.81,15.26204939,Perdida de peso,R202,Dieta DASH,450,Medio,28/01/2023,19/05/2023,3,4,4,1,0,3,4,4,1,0,49,4,Inactivo,4,2
+203,Maria  Hernandez Cruz,40,F,81,1.55,33.71488033,Mantenimiento,R203,Dieta Mediterranea,700,Alto,11/07/2023,05/09/2023,4,4,4,1,1,4,4,4,1,1,80,3,Activo,4,3
+204,Luisa  Hernandez Hernandez,51,F,70,1.77,22.34351559,Ganancia de peso,R204,Dieta Baja en Carbohidratos,650,Alto,03/07/2023,12/12/2023,3,3,4,1,1,3,3,4,1,1,72,3,Activo,6,5
+205,Sofia Elena Cruz Perez,34,F,70,1.57,28.398718,Ganancia de peso,R205,Dieta Mediterranea,300,Economico,10/04/2023,30/06/2023,3,4,3,1,0,3,4,3,1,0,75,4,Activo,2,1
+206,Miguel Martinez Ramirez,55,M,73,1.75,23.83673469,Mantenimiento,R206,Dieta Baja en Carbohidratos,250,Economico,04/02/2023,21/03/2023,3,4,4,1,0,3,4,4,1,0,73,4,Inactivo,2,1
+207,Laura  Lopez Ramirez,52,F,55,1.97,14.17197042,Perdida de peso,R207,Dieta Baja en Carbohidratos,750,Alto,14/02/2023,05/04/2023,3,4,3,1,1,3,4,3,1,1,53,3,Activo,2,2
+208,Pablo Roberto Perez Garcia,43,M,97,1.78,30.61482136,Mantenimiento,R208,Dieta Baja en Grasas,700,Alto,09/04/2023,27/09/2023,3,4,4,1,1,3,4,4,1,1,96,5,Activo,5,3
+209,Miguel Diego Ramirez Rodriguez,35,M,93,1.87,26.59498413,Ganancia de peso,R209,Dieta Baja en Grasas,550,Medio,17/07/2023,03/09/2023,4,4,4,1,1,4,4,4,1,1,95,4,Inactivo,2,1
+210,Jose  Ramirez Sanchez,46,M,65,1.93,17.45013289,Mantenimiento,R210,Dieta Mediterranea,450,Medio,24/06/2023,10/08/2023,3,4,4,1,0,3,4,4,1,0,65,3,Activo,2,2
+211,Pablo  Hernandez Hernandez,29,M,89,1.51,39.03337573,Perdida de peso,R211,Dieta Baja en Carbohidratos,500,Medio,16/10/2023,01/02/2024,3,4,3,1,1,3,4,3,1,1,83,3,Inactivo,4,4
+212,Luisa  Lopez Lopez,37,F,52,1.85,15.19357195,Perdida de peso,R212,Dieta DASH,350,Economico,11/09/2023,12/01/2024,3,4,4,1,0,3,4,4,1,0,50,3,Inactivo,4,4
+213,Jose Rafael Cruz Rodriguez,59,M,70,1.91,19.1880705,Ganancia de peso,R213,Dieta Baja en Grasas,250,Economico,05/07/2023,05/12/2023,3,4,3,1,1,3,4,3,1,1,75,5,Inactivo,5,4
+214,Ana  Rodriguez Rodriguez,63,F,80,1.61,30.86300683,Perdida de peso,R214,Dieta de Ganancia Muscular,600,Alto,09/10/2023,16/03/2024,3,3,3,1,0,2,3,3,1,0,74,5,Inactivo,5,2
+215,Laura  Rodriguez Sanchez,59,F,79,1.76,25.5036157,Ganancia de peso,R215,Dieta Baja en Carbohidratos,350,Economico,24/07/2023,30/08/2023,3,4,4,1,0,3,4,4,1,1,81,3,Activo,1,1
+216,Laura Valeria Martinez Gonzalez,18,F,79,1.61,30.47721924,Perdida de peso,R216,Dieta Baja en Carbohidratos,650,Alto,25/04/2023,09/07/2023,4,4,4,1,1,4,4,4,1,1,77,1,Inactivo,3,3
+217,Jose Ramirez Martinez,62,M,78,1.53,33.32051775,Ganancia de peso,R217,Dieta Baja en Carbohidratos,700,Alto,12/03/2023,12/06/2023,3,4,3,1,0,3,4,3,1,0,79,5,Activo,3,2
+218,Alejandro Hernandez Ramirez,26,M,92,1.66,33.38655828,Perdida de peso,R218,Dieta de Ganancia Muscular,700,Alto,09/05/2023,21/09/2023,3,3,3,1,1,2,3,3,1,1,86,4,Inactivo,4,2
+219,Juan Alejandro Lopez Rodriguez,19,M,82,1.84,24.22022684,Ganancia de peso,R219,Dieta de Ganancia Muscular,450,Medio,30/08/2023,16/01/2024,3,3,3,1,0,3,2,3,1,0,71,5,Activo,5,5
+220,Sofia  Martinez Martinez,27,F,82,1.52,35.49168975,Perdida de peso,R220,Dieta Baja en Carbohidratos,400,Medio,15/10/2023,15/01/2024,3,3,3,1,1,3,3,3,1,1,93,4,Activo,3,3
+221,Miguel  Ramirez Sanchez,35,M,94,1.91,25.76683753,Perdida de peso,R221,Dieta Baja en Carbohidratos,450,Medio,11/09/2023,25/11/2023,3,4,3,1,0,3,4,3,1,0,74,5,Inactivo,2,1
+222,Laura  Hernandez Perez,39,M,71,1.94,18.86491657,Mantenimiento,R222,Dieta DASH,350,Economico,08/04/2023,12/07/2023,3,3,3,1,0,3,3,3,1,0,70,5,Activo,3,1
+223,Juan Fernando Sanchez Rodriguez,55,M,97,1.85,28.34185537,Perdida de peso,R223,Dieta Baja en Grasas,750,Alto,14/03/2023,01/08/2023,3,4,3,1,0,3,3,3,1,0,95,5,Activo,5,4
+224,Luisa Elena Hernandez Hernandez,45,F,75,1.54,31.62421994,Mantenimiento,R224,Dieta Mediterranea,900,Alto,31/10/2023,03/01/2024,3,4,3,1,0,3,4,3,1,0,75,4,Inactivo,2,2
+225,Laura  Garcia Rodriguez,64,M,57,1.63,21.45357371,Mantenimiento,R225,Dieta de Ganancia Muscular,550,Medio,23/04/2023,06/06/2023,4,4,4,1,1,4,4,3,1,1,58,4,Activo,2,1
+226,Jose Valeria Hernandez Cruz,47,M,50,1.6,19.53125,Perdida de peso,R226,Dieta Baja en Grasas,500,Medio,03/09/2023,30/11/2023,3,3,3,1,1,3,3,3,1,1,45,5,Inactivo,3,1
+227,Pablo Martinez Lopez,52,F,63,1.74,20.80856124,Mantenimiento,R227,Dieta de Ganancia Muscular,350,Economico,02/09/2023,20/10/2023,3,4,3,1,0,2,3,3,1,0,52,4,Inactivo,1,1
+228,Diego Perez Sanchez,19,M,94,1.67,33.705045,Perdida de peso,R228,Dieta Baja en Grasas,250,Economico,04/06/2023,26/07/2023,3,4,3,1,0,3,4,3,1,0,88,5,Activo,1,1
+229,Pablo Roberto Cruz Martinez,36,M,62,1.79,19.35020755,Perdida de peso,R229,Dieta Baja en Carbohidratos,800,Alto,09/02/2023,26/05/2023,3,4,3,1,0,3,4,3,1,0,60,4,Inactivo,4,2
+230,Jose Diego Cruz Sanchez,45,M,89,1.83,26.57589059,Perdida de peso,R230,Dieta Baja en Carbohidratos,950,Alto,30/01/2023,05/07/2023,3,4,4,1,0,3,3,4,1,0,61,5,Inactivo,6,4
+231,Maria Carmen Sanchez Ramirez,55,F,61,1.93,16.37627856,Mantenimiento,R231,Dieta de Ganancia Muscular,250,Economico,24/07/2023,04/10/2023,4,4,4,1,1,4,4,4,1,1,56,4,Inactivo,2,2
+232,Maria Isabel Sanchez Perez,25,F,98,1.7,33.9100346,Ganancia de peso,R232,Dieta Baja en Grasas,350,Economico,16/11/2023,30/12/2023,3,3,3,1,1,3,3,3,1,1,100,4,Activo,1,1
+233,Valeria Martinez Martinez,53,F,61,1.51,26.75321258,Mantenimiento,R233,Dieta Baja en Grasas,750,Alto,06/09/2023,21/02/2024,3,4,3,1,0,3,2,3,1,0,61,5,Activo,5,3
+234,Maria  Garcia Lopez,37,F,55,1.81,16.78825433,Ganancia de peso,R234,Dieta de Ganancia Muscular,650,Alto,03/08/2023,26/01/2024,3,3,3,1,0,3,3,3,1,0,57,4,Activo,5,2
+235,Sofia Cruz Cruz,54,F,68,1.58,27.23922448,Ganancia de peso,R235,Dieta Mediterranea,450,Medio,06/11/2023,27/02/2024,3,4,3,1,0,3,4,3,1,0,59,5,Activo,3,3
+236,Laura Cruz Sanchez,49,F,55,1.52,23.80540166,Mantenimiento,R236,Dieta Baja en Carbohidratos,600,Alto,03/08/2023,08/11/2023,4,4,4,1,1,4,4,4,1,1,58,3,Inactivo,3,1
+237,Sofia Fernanda Lopez Rodriguez,64,F,92,1.52,39.8199446,Mantenimiento,R237,Dieta Baja en Carbohidratos,700,Alto,27/12/2023,29/04/2024,3,4,3,1,0,3,3,3,1,0,50,2,Activo,4,2
+238,Carlos Garcia Ramirez,63,M,61,1.83,18.21493625,Perdida de peso,R238,Dieta de Ganancia Muscular,800,Alto,09/11/2023,26/03/2024,3,3,4,1,0,3,3,3,1,0,92,5,Inactivo,4,2
+239,Ana Hernandez Rodriguez,25,F,62,1.76,20.01549587,Perdida de peso,R239,Dieta DASH,450,Medio,07/11/2023,09/04/2024,3,4,4,1,0,3,4,4,1,0,59,5,Inactivo,5,5
+240,Diego Cruz Martinez,64,M,67,1.87,19.15982728,Perdida de peso,R240,Dieta Baja en Carbohidratos,500,Medio,21/06/2023,26/11/2023,3,3,3,1,1,3,3,3,1,0,60,4,Inactivo,5,4
+241,Carlos Martinez Cruz,48,M,89,1.69,31.1613739,Ganancia de peso,R241,Dieta Baja en Carbohidratos,550,Medio,13/12/2023,25/04/2024,3,3,3,1,1,3,3,3,1,1,90,4,Inactivo,4,3
+242,Laura Sanchez Martinez,57,F,59,1.58,23.63403301,Mantenimiento,R242,Dieta Baja en Carbohidratos,650,Alto,14/03/2023,10/07/2023,3,4,4,1,1,4,4,4,1,1,66,5,Activo,4,2
+243,Josefa Elena Hernandez Perez,54,F,64,1.63,24.08822312,Ganancia de peso,R243,Dieta Mediterranea,350,Economico,24/10/2023,05/01/2024,3,4,4,1,1,4,4,3,1,1,57,4,Activo,2,2
+244,Maria Alejandra Perez Rodriguez,18,F,93,1.67,33.34648069,Perdida de peso,R244,Dieta DASH,750,Alto,02/01/2023,02/04/2023,3,4,4,1,0,4,4,3,1,0,66,5,Inactivo,3,2
+245,Elena Lopez Sanchez,50,F,50,1.55,20.81165453,Mantenimiento,R245,Dieta Baja en Carbohidratos,700,Alto,28/10/2023,23/12/2023,3,4,4,1,1,3,4,4,1,1,88,4,Activo,2,1
+246,Ana Carmen Gonzalez Lopez,21,F,91,1.6,35.546875,Mantenimiento,R246,Dieta Mediterranea,450,Medio,21/09/2023,23/12/2023,3,4,4,1,1,4,4,3,1,1,50,2,Activo,3,2
+247,Laura Carmen Cruz Ramirez,56,F,58,1.67,20.79672989,Mantenimiento,R247,Dieta Baja en Carbohidratos,250,Economico,08/08/2023,08/01/2024,3,4,4,1,0,4,4,3,1,0,90,5,Activo,4,4
+248,Laura Gonzalez Lopez,65,F,73,1.54,30.7809074,Perdida de peso,R248,Dieta Baja en Carbohidratos,500,Medio,28/01/2023,09/03/2023,3,4,4,1,1,3,4,4,1,1,59,5,Activo,2,2
+249,Sofia Rafaela Sanchez Hernandez,57,F,98,1.75,32.0,Ganancia de peso,R249,Dieta Mediterranea,750,Alto,26/09/2023,13/02/2024,3,3,3,1,0,4,4,3,1,1,70,5,Activo,5,3
+250,Luisa Antonia Ramirez Lopez,42,F,90,1.54,37.94906392,Ganancia de peso,R250,Dieta Baja en Carbohidratos,800,Alto,16/03/2023,14/05/2023,3,3,3,1,0,4,3,3,1,1,102,4,Activo,2,1
+251,Pablo Carmelo Gonzalez Sanchez,42,M,94,1.94,24.97608673,Perdida de peso,R251,Dieta Mediterranea,900,Alto,30/09/2023,09/11/2023,3,3,2,1,1,3,3,2,1,1,93,3,Activo,2,2
+252,Lucia Hernandez Peralta,56,F,81,1.95,21.30177515,Ganancia de peso,R252,Dieta de Ganancia Muscular,200,Economico,06/10/2023,01/04/2024,3,3,4,1,1,3,3,4,1,1,91,5,Inactivo,6,6
+253,Jennifer Garcia Gonzalez,33,F,86,1.84,25.40170132,Perdida de peso,R253,Dieta DASH,350,Economico,23/02/2023,09/05/2023,3,4,3,1,0,3,4,3,1,0,84,5,Inactivo,3,3
+254,Anali Fernanda Ramirez Lopez,33,F,88,1.55,36.62851197,Ganancia de peso,R254,Dieta de Ganancia Muscular,450,Medio,24/04/2023,20/07/2023,3,3,4,1,1,3,3,4,1,1,80,5,Inactivo,3,2
+255,Carlos Alejandro Hernandez Motenjo,55,M,63,1.88,17.82480761,Ganancia de peso,R255,Dieta Baja en Grasas,750,Alto,07/06/2023,25/07/2023,4,4,4,1,1,4,4,4,1,1,91,4,Activo,1,1
+256,Raul Hernandez Martinez,46,M,92,1.58,36.85306842,Ganancia de peso,R256,Dieta Baja en Carbohidratos,700,Alto,04/01/2023,01/03/2023,3,3,3,1,0,3,3,3,1,0,67,5,Activo,2,1
+257,Mario Sanchez Martinez,37,M,99,1.83,29.56194571,Ganancia de peso,R257,Dieta de Ganancia Muscular,350,Economico,10/08/2023,30/09/2023,3,4,3,1,0,3,4,3,1,0,95,4,Inactivo,1,1
+258,Marco Rodriguez Cruz,43,M,83,1.86,23.99121286,Ganancia de peso,R258,Dieta Baja en Carbohidratos,650,Alto,16/02/2023,01/07/2023,3,4,3,1,0,3,4,3,1,0,103,4,Inactivo,5,5
+259,Miguel Angel Cruz Garcia,45,M,56,1.9,15.51246537,Mantenimiento,R259,Dieta de Ganancia Muscular,600,Alto,26/03/2023,09/06/2023,3,3,3,1,0,3,4,4,1,0,86,5,Inactivo,3,2
+260,Yahir Garcia Rodriguez,53,M,60,1.53,25.6311675,Mantenimiento,R260,Dieta Baja en Grasas,450,Medio,15/01/2023,28/05/2023,4,4,4,1,1,4,4,4,1,1,57,4,Activo,4,2
+261,Maximiliano Martinez Ramirez,32,M,88,1.72,29.74580855,Mantenimiento,R261,Dieta Mediterranea,750,Alto,10/06/2023,16/08/2023,3,3,4,1,1,3,3,4,1,1,60,4,Inactivo,2,2
+262,Carla Rodriguez Gonzalez,42,F,99,1.65,36.36363636,Ganancia de peso,R262,Dieta Baja en Carbohidratos,350,Economico,30/11/2023,09/02/2024,3,4,3,1,0,3,4,3,1,0,90,5,Activo,3,3
+263,Ginna Garcia Gonzalez,38,F,53,1.58,21.23057202,Ganancia de peso,R263,Dieta de Ganancia Muscular,450,Medio,25/09/2023,21/11/2023,3,3,4,1,1,3,3,4,1,1,100,5,Inactivo,2,1
+264,Jorge Hernandez Sanchez,20,M,50,1.82,15.09479531,Mantenimiento,R264,Dieta DASH,400,Medio,15/04/2023,06/06/2023,4,4,4,1,1,4,4,4,1,1,57,4,Activo,2,2
+265,Lucas Rodriguez Sanchez,20,M,50,1.62,19.05197378,Perdida de peso,R265,Dieta de Ganancia Muscular,300,Economico,26/03/2023,29/08/2023,3,4,4,1,0,3,4,4,1,0,51,4,Inactivo,5,5
+266,Miguel Hernandez Garcia,51,M,63,1.54,26.56434475,Mantenimiento,R266,Dieta Baja en Grasas,750,Alto,14/03/2023,18/08/2023,3,4,3,1,1,3,4,3,1,1,88,5,Activo,5,4
+267,Tomas Perez Ramirez,58,M,85,1.75,27.75510204,Ganancia de peso,R267,Dieta Baja en Carbohidratos,350,Economico,14/02/2023,11/08/2023,3,3,4,1,0,3,3,4,1,0,64,5,Activo,6,3
+268,Karen Ramirez Cruz,55,F,66,1.58,26.43807082,Ganancia de peso,R268,Dieta de Ganancia Muscular,450,Medio,27/01/2023,06/04/2023,3,4,3,1,1,3,4,3,1,1,88,4,Activo,3,3
+269,Karem Cruz Martinez,56,F,55,1.56,22.60026298,Perdida de peso,R269,Dieta Baja en Grasas,250,Economico,16/07/2023,09/01/2024,3,4,4,1,0,3,4,4,1,0,69,5,Inactivo,6,4
+270,Giovani Garcia Ramirez,46,M,77,1.73,25.72755521,Ganancia de peso,R270,Dieta Baja en Grasas,150,Economico,12/07/2023,06/10/2023,3,3,2,1,0,3,3,3,1,0,53,4,Inactivo,3,2
+271,Denis Cruz Lopez,43,F,80,1.6,31.25,Perdida de peso,R271,Dieta Baja en Grasas,900,Alto,15/10/2023,03/04/2024,3,2,2,1,0,3,3,2,1,0,79,4,Inactivo,6,4
+272,Ilda Cruz Ramirez,38,F,80,1.8,24.69135802,Mantenimiento,R272,Dieta de Ganancia Muscular,800,Alto,22/10/2023,28/11/2023,3,2,2,1,0,3,3,2,2,1,78,5,Inactivo,1,1
+273,Joshua Rodriguez Gonzalez,31,M,53,1.86,15.31969014,Mantenimiento,R273,Dieta Mediterranea,700,Alto,28/07/2023,12/09/2023,3,3,2,1,0,3,3,2,1,0,80,5,Activo,2,1
+274,Gilberto Hernandez Perez,24,M,50,1.92,13.56336806,Ganancia de peso,R274,Dieta DASH,600,Alto,14/07/2023,14/11/2023,3,3,2,1,0,3,3,2,1,0,54,5,Inactivo,4,2
+275,Alexis Perez Garcia,60,M,57,1.73,19.04507334,Ganancia de peso,R275,Dieta Baja en Grasas,500,Medio,19/06/2023,03/09/2023,3,3,2,1,0,3,3,2,2,1,55,5,Inactivo,3,2
+276,Luis Angel Martinez Cruz,51,M,78,1.81,23.80879705,Mantenimiento,R276,Dieta de Ganancia Muscular,400,Medio,29/10/2023,22/01/2024,3,2,2,1,0,3,2,2,1,1,61,4,Activo,3,2
+277,Jose Diego Gonzalez Cruz,20,M,99,1.71,33.85657125,Mantenimiento,R277,Dieta Baja en Grasas,350,Economico,13/08/2023,20/11/2023,3,3,2,1,1,3,3,2,1,0,78,2,Inactivo,3,1
+278,Marco Sanchez Garcia,35,M,86,1.93,23.08786813,Mantenimiento,R278,Dieta Mediterranea,300,Economico,27/02/2023,01/06/2023,3,2,2,1,0,3,3,2,1,0,99,5,Activo,4,3
+279,Helena Lopez Sanchez,30,F,64,1.57,25.96454217,Perdida de peso,R279,Dieta Baja en Carbohidratos,250,Economico,16/11/2023,02/03/2024,3,3,2,1,0,3,3,2,1,0,87,5,Inactivo,4,2
+280,Michel Hernandez Rodriguez,38,F,94,1.69,32.91201288,Mantenimiento,R280,Dieta DASH,200,Economico,04/12/2023,15/04/2024,3,3,2,1,1,3,3,2,1,0,61,4,Inactivo,4,1
+281,Erick Garcia Hernandez,41,M,81,1.65,29.75206612,Ganancia de peso,R281,Dieta de Ganancia Muscular,750,Alto,12/04/2023,24/06/2023,3,3,2,1,1,3,3,2,2,1,95,4,Inactivo,2,1
+282,Daniel Ramirez Gonzalez,54,M,98,1.59,38.76428939,Ganancia de peso,R282,Dieta Baja en Carbohidratos,950,Alto,04/02/2023,11/03/2023,3,2,2,1,0,3,3,2,1,0,83,5,Activo,1,1
+283,Dana Lopez Ramirez,20,F,95,1.79,29.64951156,Ganancia de peso,R283,Dieta Mediterranea,800,Alto,12/12/2023,09/03/2024,3,3,2,1,1,3,3,2,1,0,100,4,Inactivo,3,3
+284,Julieta Cruz Lopez,36,F,79,1.78,24.93372049,Ganancia de peso,R284,Dieta DASH,650,Alto,05/01/2023,11/04/2023,3,3,2,1,1,3,3,2,1,0,99,5,Inactivo,3,2
+285,Julisa Ramirez Perez,48,F,94,1.74,31.04769454,Perdida de peso,R285,Dieta de Ganancia Muscular,850,Alto,28/10/2023,02/12/2023,3,2,2,1,0,3,3,2,1,0,83,4,Activo,4,2
+286,Paco Hernandez Cruz,32,M,84,1.89,23.51557907,Mantenimiento,R286,Dieta Baja en Carbohidratos,350,Economico,11/09/2023,03/03/2024,3,3,2,1,0,3,3,2,1,0,90,5,Activo,6,4
+287,Jose Pablo Castillo Cruz,25,M,91,1.72,30.7598702,Mantenimiento,R287,Dieta Baja en Carbohidratos,250,Economico,02/08/2023,08/12/2023,3,3,2,1,1,3,3,2,1,0,84,4,Inactivo,4,3
+288,Henry Montereal Cruz,47,M,60,1.89,16.79684219,Mantenimiento,R288,Dieta Mediterranea,200,Economico,27/03/2023,03/07/2023,3,3,2,1,0,3,3,2,1,0,91,4,Inactivo,4,5
+289,Damian Garcia Perez,18,M,73,1.66,26.4915082,Perdida de peso,R289,Dieta Mediterranea,750,Alto,13/03/2023,16/07/2023,3,3,2,1,0,3,3,3,1,0,61,5,Inactivo,4,3
+290,Carolina Molina Sanchez,56,F,50,1.72,16.90102758,Mantenimiento,R290,Dieta DASH,350,Economico,02/12/2023,30/05/2024,3,3,2,1,0,3,3,3,1,0,69,4,Activo,5,3
+291,Beatriz Zenteno Vazquez,43,F,73,1.68,25.86451247,Ganancia de peso,R291,Dieta Baja en Carbohidratos,400,Medio,01/11/2023,27/02/2024,3,2,2,1,0,3,2,3,2,1,50,5,Inactivo,3,1
+292,Ana Maria Montenegro Ruiz,21,F,90,1.99,22.72669882,Perdida de peso,R292,Dieta Baja en Carbohidratos,300,Economico,21/04/2023,02/10/2023,3,2,2,1,0,3,2,2,1,1,75,3,Inactivo,6,2
+293,Rogelio Salvador Santander,29,M,74,1.52,32.02908587,Perdida de peso,R293,Dieta DASH,800,Alto,16/08/2023,11/12/2023,3,2,2,1,0,3,3,2,1,0,88,2,Activo,4,2
+294,Dolores Fernandez Martinez,32,F,75,1.6,29.296875,Mantenimiento,R294,Dieta Mediterranea,500,Medio,15/07/2023,23/11/2023,3,3,2,1,1,3,3,2,1,0,70,5,Inactivo,4,3
+295,Gael Gonzales Amador,62,M,87,1.73,29.06879615,Perdida de peso,R295,Dieta Mediterranea,550,Medio,12/06/2023,02/12/2023,3,2,2,1,0,3,3,2,1,0,75,5,Inactivo,6,5
+296,Alejandro Gutierrez Alonso,49,M,67,1.74,22.12973973,Mantenimiento,R296,Dieta Mediterranea,750,Alto,16/11/2023,23/12/2023,3,3,2,1,1,3,3,2,1,0,84,4,Activo,1,1
+297,Aaron Navarro Ramos,22,M,95,1.92,25.77039931,Ganancia de peso,R297,Dieta Baja en Carbohidratos,300,Economico,24/10/2023,11/03/2024,3,3,2,1,1,3,3,2,1,0,67,4,Inactivo,5,5
+298,Teresa Dominguez Serrano,27,F,74,1.6,28.90625,Mantenimiento,R298,Dieta Baja en Grasas,350,Economico,01/05/2023,29/07/2023,3,2,2,1,0,3,3,2,1,0,98,5,Activo,2,2
+299,Cristal Moreno Rubio,55,F,97,1.61,37.42139578,Perdida de peso,R299,Dieta de Ganancia Muscular,200,Economico,01/12/2023,23/02/2024,3,3,2,1,0,3,3,2,1,0,75,4,Inactivo,2,2
+300,Otto Delgado Medina,55,M,68,1.69,23.80869017,Perdida de peso,R300,Dieta Mediterranea,250,Economico,16/11/2023,06/03/2024,4,3,2,1,0,3,2,1,2,1,65,4,Inactivo,4,2
