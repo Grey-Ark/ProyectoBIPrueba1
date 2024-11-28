@@ -764,16 +764,16 @@ def mostrar_menu():
     opcion = int(input("Selecciona una opción: "))
     
     if opcion == 1:
-        importar_script_bd('C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/modeloNutriologo.sql', 'C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/modeloNutriologo_limpio.sql')
+        importar_script_bd('modeloNutriologo.sql', 'modeloNutriologo_limpio.sql')
     if opcion == 2:
         generar_registros_csv('RegistrosNutriologo.csv',2000)
     if opcion == 3:
-        preparar_archivo_csv('C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/RegistrosNutriologo.csv')
+        preparar_archivo_csv('RegistrosNutriologo.csv')
     if opcion == 4:
-        insertar_datos_dimensiones('C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/RegistrosNutriologo_limpio.csv')
+        insertar_datos_dimensiones('RegistrosNutriologo_limpio.csv')
     if opcion == 5:
-        insertar_datos_hechos('C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/RegistrosNutriologo_limpio.csv')
-        insertar_dimensiones('C:/Users/juane/Documents/SeptimoSemestre/InteligenciaNegocios/ProyectoNutriologo/RegistrosNutriologo_limpio.csv')
+        insertar_datos_hechos('RegistrosNutriologo_limpio.csv')
+        insertar_dimensiones('RegistrosNutriologo_limpio.csv')
     if opcion == 6:
         print("Generando cubos...")
         generar_cubos_olap()
