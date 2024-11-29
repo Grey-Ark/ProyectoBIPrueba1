@@ -248,9 +248,36 @@ app.layout = html.Div([
         'border-radius': '5px',
         'background-color': '#f9f9f9', 
         'margin': '10px'
-    })
-
+    }),
+    html.Div([
+    # Reporte de Resultados y Recomendaciones
+    html.Div([
+        html.H4("Reporte de Resultados y Recomendaciones", 
+                style={'textAlign': 'center', 'font-family': 'Roboto, Arial, sans-serif', 'color': '#2c3e50'}),
+        html.Div([
+            html.P("Se desarrolló un modelo predictivo utilizando el algoritmo Random Forest, entrenado con datos de los regímenes alimenticios. El modelo alcanzó un "
+                   "accuracy de 1.0, lo que significa que clasifica correctamente si los pacientes cumplen o no con un régimen en función de variables clave como "
+                   "costo, satisfacción y cumplimiento.", 
+                   style={'margin-bottom': '10px', 'color': '#34495e'}),
+            html.P("Con base en los resultados del modelo, se recomiendan las siguientes acciones para alcanzar las metas del Balance Score Card:", 
+                   style={'margin-bottom': '10px', 'color': '#34495e'}),
+            html.Ul([
+                html.Li("Optimizar costos de regímenes alimenticios: Reducir el costo de la Dieta de Ganancia Muscular y Dieta de Proteínas para mejorar accesibilidad y adherencia."),
+                html.Li("Aumentar la retención de pacientes: Personalizar regímenes con mayor flexibilidad en los menús y garantizar equivalencia nutricional para alcanzar una retención superior al 95%."),
+                html.Li("Mejorar la satisfacción con el sistema de seguimiento: Fortalecer la herramienta móvil y garantizar un contacto más cercano mediante consultas periódicas, elevando la satisfacción promedio por encima de 4.5/5."),
+                html.Li("Incrementar los ingresos netos: Concentrar promociones estratégicas en enero, el mes con mayor potencial de registros, enfocadas en regímenes accesibles y altamente valorados."),
+            ], style={'color': '#34495e', 'font-family': 'Roboto, Arial, sans-serif'}),
+        ], style={'margin-bottom': '20px'}),
+    ], style={
+        'padding': '20px', 
+        'border': '1px solid #ecf0f1', 
+        'border-radius': '5px',
+        'background-color': '#f9f9f9', 
+        'margin': '10px'
+    }),
+    ])  
 ])
+
 
 # Callbacks
 
